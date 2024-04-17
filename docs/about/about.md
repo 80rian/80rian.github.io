@@ -4,5 +4,6 @@ layout: about
 nav_order: 1
 ---
 
-# Adrian Jeong
+# Adrian Jeong | 정재윤
 
+![profile](/assets/images/profile.jpg)
