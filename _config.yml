@@ -3,3 +3,8 @@ description: 얼렁뚱땅 데이터 엔지니어
 theme: just-the-docs
 
 url: https://80rian.github.io
+mermaid:
+  version: '10.9.0'
+
+last_edit_timestamp: true
+last_edit_time_format: '%Y-%m-%d %H:%M:%S %z'
