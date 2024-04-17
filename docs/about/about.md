@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-nav_order: 1
+nav_order: 4
 ---
 
 ## Adrian Jeong | 정재윤
