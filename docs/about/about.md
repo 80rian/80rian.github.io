@@ -4,15 +4,15 @@ layout: about
 nav_order: 4
 ---
 
-## Adrian Jeong | 정재윤
+# Adrian Jeong | 정재윤
 
 ![profile](/assets/images/profile.jpg)
 
 ---
 
-### Skill Set
+## Skill Set
 
-#### Language
+### Language
 
 - Python
 - Scala
@@ -21,18 +21,18 @@ nav_order: 4
 - JavaScript/TypeScript
 - Solidity
 
-#### Cloud
+### Cloud
 
 - AWS (Athena, Glue, S3, EMR, EMR Serverless, EKS, Kinesis, Firehose, Lambda, etc.)
 - GCP (BigQuery, GCS, DataProc, GKE, etc.)
 
-#### Data Processing Tool
+### Data Processing Tool
 
 - Apache Spark
 - Apache Flink
 - Pandas
 
-#### Data Warehouse / Data Store
+### Data Warehouse / Data Store
 
 - Apache Hive (AWS Glue)
 - Apache Iceberg (AWS Glue)
@@ -42,16 +42,16 @@ nav_order: 4
 - MySQL / PostgreSQL
 - MongoDB
 
-#### Data Visualization
+### Data Visualization
 
 - Apache Superset
 - Redash
 
-#### Workflow Orchestration
+### Workflow Orchestration
 
 - Apache Airflow
 
-#### Container Orchestration & CI/CD
+### Container Orchestration & CI/CD
 
 - Docker
 - Kubernetes
@@ -60,28 +60,28 @@ nav_order: 4
 
 ---
 
-### Work Experiences
+## Work Experiences
 
-#### GroundX, a Kakao Company
+### GroundX, a Kakao Company
 
 - Jul 2022 ~
 - Data Engineer
 
-#### Kiboko
+### Kiboko
 
 - Apr 2020 ~ Jun 2022
 - Data Enginner & Co-founder
 
-#### Enuma
+### Enuma
 
 - May 2018 ~ Mar 2020
 - Data Analytics Engineer
 
 ---
 
-### Academics
+## Academics
 
-#### Pennsylvania State University (Aug 2012 ~ Jul 2018)
+### Pennsylvania State University (Aug 2012 ~ Jul 2018)
 
 - Major: Systems Analysis Mathematics (BS)
 - Minor: Entrepreneurship & Innovation
