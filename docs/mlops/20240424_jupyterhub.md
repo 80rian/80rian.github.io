@@ -106,6 +106,8 @@ hub:
     name: hub
     annotations:
       eks.amazonaws.com/role-arn: arn:aws:iam::<ACCOUNT>:role/jupyterhub-role
+singleuser:
+  serviceAccountName: hub
 ```
 
 ### Environment Variables
