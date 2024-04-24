@@ -1,7 +1,7 @@
 ---
 title: JupyterHub 설치
 layout: default
-nav_order: 2
+nav_exclude: true
 parent: MLOps
 ---
 
