@@ -83,6 +83,7 @@ hub:
       admin_users:
         - <ADMIN_USER>
       login_service: <SERVICE_NAME>
+      allow_all: true
     JupyterHub:
       authenticator_class: google
 ```
