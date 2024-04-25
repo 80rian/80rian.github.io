@@ -1,6 +1,7 @@
 ---
 title: Installation
 layout: default
+grand_parent: MLOps
 parent: JupyterHub
 nav_order: 1
 permalink: docs/mlops/jupyterhub/installation
