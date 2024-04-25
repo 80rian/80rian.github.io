@@ -3,6 +3,7 @@ title: JupyterHub 설치
 layout: default
 nav_exclude: true
 parent: JupyterHub
+permalink: docs/mlops/jupyterhub/jupyterhub_installation
 ---
 
 # JupyterHub 설치
